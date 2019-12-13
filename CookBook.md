@@ -1,6 +1,7 @@
 ##CookBook
 
 ##Input Data
+
 The script assumes the UCI dataset is extracted directly into ./data/. See the README.md for further details.
 
 Output Data
